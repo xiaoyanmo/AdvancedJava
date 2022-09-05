@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="remove-html-tags-with-regular-expression-in-java" />
+        <module name="sum-with-generic-in-java" />
+        <module name="validate-with-custom-annotations-in-java" />
+        <module name="use-static-initialization-blocks" />
+        <module name="use-nested-classes-in-java" />
+        <module name="use-initializer-block" />
+        <module name="use-anonymous-nested-classes-in-java" />
+        <module name="validate-email-address-with-regular-expression-in-java" />
+        <module name="use-anonymous-nested-interfaces-in-java" />
+        <module name="java-reflection-for-declared-fields" />
+        <module name="find-string-inside-of-the-text-files" />
+        <module name="validate-ip-addresses-with-regular-expression-in-java" />
+        <module name="java-reflection-for-declared-methods" />
+        <module name="extract-html-tags-with-regular-expression-in-java" />
+        <module name="java-reflection-for-annotations" />
+        <module name="invoke-methods-in-java-reflection" />
+        <module name="use-static-nested-classes-in-java" />
+        <module name="validate-credit-card-number-with-regular-expression-in-java" />
+        <module name="inheritance-in-static-initializer-block" />
+        <module name="display-object-information-with-generic-and-reflection-in-java" />
+        <module name="java-reflection-for-fields" />
+        <module name="parallel-in-java-thread" />
+        <module name="java-reflection-for-classes" />
+        <module name="annotations-in-java" />
+        <module name="java-reflection-for-methods" />
+        <module name="validate-url-address-with-regular-expression-in-java" />
+        <module name="download-files-with-parallel-in-java-threads" />
+        <module name="managed-file-with-command-line-in-java-io" />
+        <module name="validate-complex-password-with-regular-expression-in-java" />
+        <module name="inheritance-in-initializer-block" />
+        <module name="use-java-filter-file" />
+        <module name="copy-files-with-parallel-in-java-thread" />
+        <module name="java-reflection-for-constructors" />
+        <module name="display-simple-values-and-properties-values-of-object-in-generic" />
+        <module name="validate-american-phone-number-with-regular-expression-in-java" />
+        <module name="create-annotation-in-java" />
+        <module name="get-results-from-parallel-in-java-thread" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>AdvancedJava</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>remove-html-tags-with-regular-expression-in-java</module>
+        <module>extract-html-tags-with-regular-expression-in-java</module>
+        <module>validate-american-phone-number-with-regular-expression-in-java</module>
+        <module>validate-credit-card-number-with-regular-expression-in-java</module>
+        <module>validate-ip-addresses-with-regular-expression-in-java</module>
+        <module>validate-complex-password-with-regular-expression-in-java</module>
+        <module>validate-url-address-with-regular-expression-in-java</module>
+        <module>validate-email-address-with-regular-expression-in-java</module>
+        <module>download-files-with-parallel-in-java-threads</module>
+        <module>java-reflection-for-annotations</module>
+        <module>invoke-methods-in-java-reflection</module>
+        <module>java-reflection-for-methods</module>
+        <module>java-reflection-for-fields</module>
+        <module>java-reflection-for-constructors</module>
+        <module>java-reflection-for-classes</module>
+        <module>managed-file-with-command-line-in-java-io</module>
+        <module>copy-files-with-parallel-in-java-thread</module>
+        <module>get-results-from-parallel-in-java-thread</module>
+        <module>parallel-in-java-thread</module>
+        <module>display-object-information-with-generic-and-reflection-in-java</module>
+        <module>sum-with-generic-in-java</module>
+        <module>display-simple-values-and-properties-values-of-object-in-generic</module>
+        <module>validate-with-custom-annotations-in-java</module>
+        <module>annotations-in-java</module>
+        <module>use-initializer-block</module>
+        <module>inheritance-in-initializer-block</module>
+        <module>use-static-initialization-blocks</module>
+        <module>inheritance-in-static-initializer-block</module>
+        <module>use-nested-classes-in-java</module>
+        <module>use-static-nested-classes-in-java</module>
+        <module>use-anonymous-nested-classes-in-java</module>
+        <module>use-anonymous-nested-interfaces-in-java</module>
+        <module>java-reflection-for-declared-fields</module>
+        <module>java-reflection-for-declared-methods</module>
+        <module>create-annotation-in-java</module>
+        <module>use-java-filter-file</module>
+        <module>find-string-inside-of-the-text-files</module>
+    </modules>
+
+    <name>AdvancedJava</name>
+    <!-- FIXME change it to the project's website -->
+    <url>http://www.example.com</url>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
+
+</project>

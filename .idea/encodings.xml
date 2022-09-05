@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/annotations-in-java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/copy-files-with-parallel-in-java-thread/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/create-annotation-in-java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/display-object-information-with-generic-and-reflection-in-java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/display-simple-values-and-properties-values-of-object-in-generic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/download-files-with-parallel-in-java-threads/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/download-files-with-parallel-in-java-threads/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extract-html-tags-with-regular-expression-in-java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extract-html-tags-with-regular-expression-in-java/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/find-string-inside-of-the-text-files/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/get-results-from-parallel-in-java-thread/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inheritance-in-initializer-block/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inheritance-in-static-initializer-block/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inheritance-in-static-initializer-block/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/invoke-methods-in-java-reflection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-reflection-for-annotations/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-reflection-for-classes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-reflection-for-classes/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-reflection-for-constructors/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-reflection-for-declared-fields/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-reflection-for-declared-methods/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-reflection-for-fields/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-reflection-for-methods/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/managed-file-with-command-line-in-java-io/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parallel-in-java-thread/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/remove-html-tags-with-regular-expression-in-java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sum-with-generic-in-java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/use-anonymous-nested-classes-in-java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/use-anonymous-nested-interfaces-in-java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/use-initializer-block/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/use-initializer-block/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/use-java-filter-file/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/use-nested-classes-in-java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/use-static-initialization-blocks/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/use-static-nested-classes-in-java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/validate-american-phone-number-with-regular-expression-in-java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/validate-complex-password-with-regular-expression-in-java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/validate-credit-card-number-with-regular-expression-in-java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/validate-email-address-with-regular-expression-in-java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/validate-ip-addresses-with-regular-expression-in-java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/validate-url-address-with-regular-expression-in-java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/validate-with-custom-annotations-in-java/src/main/java" charset="UTF-8" />
+  </component>
+</project>
